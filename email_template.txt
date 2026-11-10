@@ -1,0 +1,13 @@
+Subject: Hello {name} — a quick update from our team
+
+Hi {name},
+
+This is a sample email sent with the Email Automation project.
+
+We wanted to share a quick update with you. If you have any
+questions, just reply to this email and we will get back to you.
+
+Thanks for being with us!
+
+Best regards,
+The Team
